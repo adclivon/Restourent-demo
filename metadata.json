@@ -1,0 +1,6 @@
+{
+  "name": "Food Palace - Authentic Pakistani Cuisine & Royal Dining",
+  "description": "Experience the royal heritage of authentic Pakistani dining at Food Palace. Specializing in traditional Dum Biryani, Shinwari Karahi, slow-cooked Nihari, and charcoal BBQ with online ordering and WhatsApp delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
